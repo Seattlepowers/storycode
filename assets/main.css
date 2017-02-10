@@ -1,0 +1,43 @@
+//*===================================================================
+Image
+=====================================================================*//
+p .beta {
+  color: red;
+  border: 1px green solid;
+}
+.act1 {
+ border:1px green solid;
+}
+
+.act1 img {
+  border:1px green solid;
+  width: 250px;
+  height: 250px;
+  border-radius: 4px;
+}
+
+.act2 img {
+  border:1px green solid;
+  width: 250px;
+  height: 250px;
+  border-radius: 4px;
+}
+
+.act3 img {
+  border:1px green solid;
+  width: 250px;
+  height: 250px;
+  border-radius: 4px;
+}
+
+//*=============================================================================
+
+================================================================================*//
+
+
+h1 {
+background-color:blue;
+color: blue;
+font-size: 23px;
+font-family:Sansita;
+}
